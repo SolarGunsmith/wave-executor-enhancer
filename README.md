@@ -29,4 +29,4 @@ Yes — it's free to download and use.
 - ✅ **Community Tools:** Integration with gaming communities and content sharing platforms.
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.     
+> This project is shared as-is. All product names and logos belong to their respective owners.      
